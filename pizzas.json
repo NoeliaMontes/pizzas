@@ -1,0 +1,38 @@
+[
+ {
+        "nombre" : "hawaiana",
+        "precio" : 9.50,
+        "ingredientes" : ["tomate", "mozarella", "piña", "doble de york"],
+        "masa" : ["fina", "normal"],
+        "novedad" : false,
+        "oferta" : true,
+        "imagen" : "/img/hawaiana.png"
+    },
+    {
+        "nombre" : "barbacoa",
+        "precio" : 11.50,
+        "ingredientes" : ["tomate", "mozarella", "bacon", "pollo", "salsa barbacoa", "doble carne vacuno"],
+        "masa" : ["normal"],
+        "novedad" : true,
+        "oferta" : false,
+        "imagen" : "/img/barbacoa.png"
+    },
+    {
+        "nombre" : "Bacon crispy",
+        "precio" : 10.50,
+        "ingredientes" : ["tomate", "mozarella", "bacon", "bacon crispy", "salsa barbacoa"],
+        "masa" : ["fina","normal"],
+        "novedad" : true,
+        "oferta" : true,
+        "imagen" : "/img/baconcrispy.png"
+    },
+    {
+        "nombre" : "Carbonara",
+        "precio" : 10.50,
+        "ingredientes" : ["tomate", "mozarella", "doble bacon", "champiñón", "salsa carbonara"],
+        "masa" : ["fina","normal", "integral"],
+        "novedad" : true,
+        "oferta" : true,
+        "imagen" : "/img/carbonara.png"
+    }
+]
